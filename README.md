@@ -34,5 +34,5 @@ I’m a passionate Data Engineer experienced in building and optimizing scalable
 ---
 
 📬 **Let’s connect!**  
-[LinkedIn](https://www.linkedin.com/in/prathima)  
+[LinkedIn](https://www.linkedin.com/in/prathimasudalagunta/)  
 📧 prathimasudalagunta2022@gmail.com
